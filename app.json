@@ -1,0 +1,17 @@
+{
+  "name": "repro",
+  "displayName": "repro",
+  "expo": {
+    "name": "repro",
+    "slug": "repro",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
